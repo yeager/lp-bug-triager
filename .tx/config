@@ -1,7 +1,7 @@
 [main]
 host = https://www.transifex.com
 
-[o:danielnylander:p:lp-bug-triager:r:lp-bug-triager-pot]
+[o:danielnylander:p:lp-bug-triager:r:lp_bug_triager]
 file_filter = po/<lang>.po
 source_file = po/lp-bug-triager.pot
 source_lang = en
