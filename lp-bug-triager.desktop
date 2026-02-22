@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=lp-bug-triager
+Comment=GTK4 Launchpad bug triage tool with NLP classification
+Exec=lp-bug-triager
+Icon=applications-other-symbolic
+Terminal=false
+Categories=Development;
