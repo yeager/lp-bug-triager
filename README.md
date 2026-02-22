@@ -1,10 +1,10 @@
 # LP Bug Triager
 
-Launchpad-bugghantering med NLP-klassificering.
+Launchpad bug triage tool with NLP classification.
 
-GTK4/Adwaita · Python · v0.1.1 · 26 översättningsbara strängar
+GTK4/Adwaita · Python · v0.1.1 · 26 translatable strings
 
-## Installation
+## Install
 
 ### Ubuntu / Debian
 ```bash
@@ -12,10 +12,10 @@ sudo apt install lp-bug-triager
 ```
 Repo: [yeager/debian-repo](https://github.com/yeager/debian-repo)
 
-## Översättning
+## Translation
 
-Översätts via [Transifex](https://app.transifex.com/danielnylander/lp-bug-triager/). 11 språk.
+Translated via [Transifex](https://app.transifex.com/danielnylander/lp-bug-triager/). 11 languages.
 
-## Licens
+## License
 
 GPL-3.0-or-later · Daniel Nylander <daniel@danielnylander.se>
