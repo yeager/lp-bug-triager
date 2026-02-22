@@ -1,0 +1,3 @@
+#!/usr/bin/env python3
+from lp_bug_triager.main import main
+main()
